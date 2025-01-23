@@ -1,0 +1,1 @@
+This repository demonstrates a subtle issue with VBScript's IsEmpty function.  The function sometimes produces unexpected results when dealing with different types of 'empty' values. The provided code examples show how to reproduce the problem and a possible solution for robust handling of empty or null parameters.
